@@ -1,0 +1,19 @@
+{
+ "student":[{
+  "name":"AJITH",
+ "age":23,
+ "place":"karur"
+ },
+ {
+  "name":"SURIYA",
+  "age":23,
+  "place":"karur"
+ },
+ {
+  "name":"YASWANTH",
+  "age":23,
+  "place":"karur"
+ }
+]
+ 
+}

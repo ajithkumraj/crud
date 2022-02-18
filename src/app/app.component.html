@@ -1,0 +1,12 @@
+<form>
+  name: <input type="text"><br>
+  age: <input type="number"><br>
+  place: <input type="text"><br><hr>
+<button (click)="getdata()">save</button>
+<!-- {{data|json}} -->
+</form>
+<div *ngFor ="let item of data">
+  {{item.name}}
+  {{item.age}}
+  {{item.place}}
+  </div>
